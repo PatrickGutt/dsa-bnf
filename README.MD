@@ -13,12 +13,14 @@ The program uses a provided Backus-Naur Form (BNF) expression to construct an ex
  
  An example of each representation are as follows,
 
- Expression: 7 * {2 - 1} + 3 / {4 + 2}
+ ### Expression: 
+ 
+ $7 * {2 - 1} + 3 / {4 + 2}$
 
 ### Basic Visualization Example:
 
-![alt text](output\option-1.png)
+![alt text](/output/option-1.png)
 
 ### Enhanced Visualization Example:
 
-![alt text](output\option-2.png)
+![alt text](/output/option-2.png)
